@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Informacje o aplikacji</title>
+</head>
+<body>
+    <h1>New</h1>
+    <p>To jest oficjalna strona informacyjna mojej aplikacji.</p>
+    <h2>Polityka prywatności</h2>
+    <p>Aplikacja szanuje prywatność użytkowników i nie udostępnia ich danych osobom trzecim.</p>
+</body>
+</html>
